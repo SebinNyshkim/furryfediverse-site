@@ -141,6 +141,24 @@ const Home: NextPage = ({ general, niche }: any) => {
                                 Toot! (Paid)
                             </a>
                             <a
+                                href='https://tapbots.com/ivory/'
+                                className='btn btn-primary normal-case text-lg'
+                                target='_blank'
+                                rel='noreferrer'
+                            >
+                                <i className='fa-brands fa-apple mr-2'></i>{ ' ' }
+                                Ivory (Subscription)
+                            </a>
+                            <a
+                                href='https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884'
+                                className='btn btn-primary normal-case text-lg'
+                                target='_blank'
+                                rel='noreferrer'
+                            >
+                                <i className='fa-brands fa-apple mr-2'></i>{ ' ' }
+                                Ice Cubes
+                            </a>
+                            <a
                                 href='https://apps.apple.com/us/app/metatext/id1523996615?mt=8'
                                 className='btn btn-primary normal-case text-lg'
                                 target='_blank'
