@@ -159,7 +159,7 @@ const Home: NextPage = ({ general, niche }: any) => {
                                 Ice Cubes
                             </a>
                             <a
-                                href='https://apps.apple.com/us/app/metatext/id1523996615?mt=8'
+                                href='https://metabolist.org'
                                 className='btn btn-primary normal-case text-lg'
                                 target='_blank'
                                 rel='noreferrer'
