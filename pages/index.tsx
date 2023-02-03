@@ -132,7 +132,7 @@ const Home: NextPage = ({ general, niche }: any) => {
                         <p className='font-bold py-4'>Recomended Apps</p>
                         <div className='px-2 flex flex-wrap gap-2'>
                             <a
-                                href='https://apps.apple.com/us/app/toot/id1229021451'
+                                href='https://apps.apple.com/app/id1229021451'
                                 className='btn btn-primary normal-case text-lg'
                                 target='_blank'
                                 rel='noreferrer'
@@ -150,7 +150,7 @@ const Home: NextPage = ({ general, niche }: any) => {
                                 Ivory (Subscription)
                             </a>
                             <a
-                                href='https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884'
+                                href='https://apps.apple.com/app/id6444915884'
                                 className='btn btn-primary normal-case text-lg'
                                 target='_blank'
                                 rel='noreferrer'
